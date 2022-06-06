@@ -38,6 +38,7 @@ public class SORT {
                 invert=true;
             }else{
                 invertv=1;
+                break;
             }
         }
         
