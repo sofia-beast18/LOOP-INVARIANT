@@ -53,6 +53,7 @@ public class FindX {
                 k=1;          
         }else{
                 k=0;
+                break;
             }
         
         
